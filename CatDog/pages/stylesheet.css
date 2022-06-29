@@ -6,3 +6,7 @@ body {
     height: auto;
     width: 500px;
 }
+
+div.Header {
+    text-align: center;
+}
